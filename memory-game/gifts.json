@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "bluePink",
+        "img":"https://www.svgrepo.com/show/503812/gift.svg"
+    },
+    {
+        "name" : "yellowRound",
+        "img":"https://www.svgrepo.com/show/503816/gift.svg"
+    },
+    {
+        "name" : "redBox",
+        "img":"https://www.svgrepo.com/show/503826/gift.svg"
+    },
+    {
+        "name" : "yellowPink",
+        "img":"https://www.svgrepo.com/show/503827/gift.svg"
+    },
+    {
+        "name" : "letter",
+        "img":"https://www.svgrepo.com/show/503831/gift-letter.svg"
+    },
+    {
+        "name" : "pinkHeart",
+        "img":"https://www.svgrepo.com/show/503822/gift.svg"
+    },
+    {
+        "name" : "redPink",
+        "img":"https://www.svgrepo.com/show/503817/gift.svg"
+    },     
+    {
+        "name" : "greenCard",
+        "img":"https://www.svgrepo.com/show/503823/gift.svg"
+    }
+]
