@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "first",
+        "img":"https://www.svgrepo.com/show/343903/lonely.svg"
+    },
+    {
+        "name" : "second",
+        "img":"https://www.svgrepo.com/show/343904/happy.svg"
+    },
+    {
+        "name" : "third",
+        "img":"https://www.svgrepo.com/show/343905/loved.svg"
+    },
+    {
+        "name" : "fourth",
+        "img":"https://www.svgrepo.com/show/343906/nervous.svg"
+    },
+    {
+        "name" : "fifth",
+        "img":"https://www.svgrepo.com/show/343908/sad.svg"
+    },
+    {
+        "name" : "sixth",
+        "img":"https://www.svgrepo.com/show/343912/angry.svg"
+    },
+    {
+        "name" : "seventh",
+        "img":"https://www.svgrepo.com/show/343914/tired.svg"
+    },     
+    {
+        "name" : "eightth",
+        "img":"https://www.svgrepo.com/show/343913/sick.svg"
+    },
+    {
+        "name" : "nineth",
+        "img":"https://www.svgrepo.com/show/343909/scared.svg"
+    },
+    {
+        "name" : "tenth",
+        "img":"https://www.svgrepo.com/show/343917/excited.svg"
+    }
+]
