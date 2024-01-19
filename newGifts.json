@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "gift1",
+        "img":"./assets/images/gifts/gift1.svg"
+    },
+    {
+        "name" : "gift2",
+        "img":"./assets/images/gifts/gift1.svg"
+    },
+    {
+        "name" : "gift3",
+        "img":"./assets/images/gifts/gift3.svg"
+    },
+    {
+        "name" : "gift4",
+        "img":"./assets/images/gifts/gift4.svg"
+    },
+    {
+        "name" : "gift5",
+        "img":"./assets/images/gifts/gift5.svg"
+    },
+    {
+        "name" : "gift6",
+        "img":"./assets/images/gifts/gift6.svg"
+    },
+    {
+        "name" : "gift7",
+        "img":"./assets/images/gifts/gift7.svg"
+    },     
+    {
+        "name" : "gift8",
+        "img":"./assets/images/gifts/gift8.svg"
+    }
+]
