@@ -1,0 +1,78 @@
+{
+    "easyLevel" : [
+        {
+            "name" : "gift1",
+            "img":"./assets/images/gifts/gift1.svg"
+        },
+        {
+            "name" : "gift2",
+            "img":"./assets/images/gifts/gift2.svg"
+        },
+        {
+            "name" : "gift3",
+            "img":"./assets/images/gifts/gift3.svg"
+        },
+        {
+            "name" : "gift4",
+            "img":"./assets/images/gifts/gift4.svg"
+        },
+        {
+            "name" : "gift5",
+            "img":"./assets/images/gifts/gift5.svg"
+        },
+        {
+            "name" : "gift6",
+            "img":"./assets/images/gifts/gift6.svg"
+        },
+        {
+            "name" : "gift7",
+            "img":"./assets/images/gifts/gift7.svg"
+        },     
+        {
+            "name" : "gift8",
+            "img":"./assets/images/gifts/gift8.svg"
+        }
+    ],
+    "hardLevel" : [
+        {
+            "name" : "cactus1",
+            "img":"./assets/images/cactus/cactus1.svg"
+        },
+        {
+            "name" : "cactus2",
+            "img":"./assets/images/cactus/cactus2.svg"
+        },
+        {
+            "name" : "cactus3",
+            "img":"./assets/images/cactus/cactus3.svg"
+        },
+        {
+            "name" : "cactus4",
+            "img":"./assets/images/cactus/cactus4.svg"
+        },
+        {
+            "name" : "cactus5",
+            "img":"./assets/images/cactus/cactus5.svg"
+        },
+        {
+            "name" : "cactus6",
+            "img":"./assets/images/cactus/cactus6.svg"
+        },
+        {
+            "name" : "cactus7",
+            "img":"./assets/images/cactus/cactus7.svg"
+        },
+        {
+            "name" : "cactus8",
+            "img":"./assets/images/cactus/cactus8.svg"
+        },
+        {
+            "name" : "cactus9",
+            "img":"./assets/images/cactus/cactus9.svg"
+        },
+        {
+            "name" : "cactus10",
+            "img":"./assets/images/cactus/cactus10.svg"
+        }  
+    ]
+}
