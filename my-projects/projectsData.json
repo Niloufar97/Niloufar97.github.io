@@ -1,5 +1,4 @@
-{
-    "ProjectsData" : [   
+[   
       {
         "id": 1,
         "title": "Kraftvaerk-project",
@@ -57,4 +56,3 @@
         "desc":"During the JavaScript semester at ReDi-School, I undertook the task of creating a To-Do List application as a homework assignment. This project proved instrumental in enhancing my proficiency with JavaScript, particularly in manipulating the Document Object Model (DOM) and utilizing local storage. Through dynamic updates and event handling, I honed my skills in creating an interactive and user-friendly task management tool. Leveraging local storage not only added persistence to user data but also deepened my understanding of building robust web applications. This project marked a significant milestone in my JavaScript journey, showcasing practical application of acquired knowledge and setting the stage for further exploration in web development."
       }
 ]
-}
