@@ -40,7 +40,7 @@
         "id": 5,
         "title": "Portfolio",
         "img": "./assets/projectImg/react-portfolio.png",
-        "tech": "HTML, CSS",
+        "tech": "React.js, Framer-motion",
         "github": "https://github.com/Niloufar97/Portfolio-HYF",
         "date": "Oct 2023",
         "desc":"As part of my coursework during the Hack Your Future semester, I meticulously crafted a personal portfolio using HTML and CSS. This project served as a comprehensive review of my acquired skills in front-end development, showcasing a visually appealing and functional portfolio. While the current design excels in larger screens and mobile devices, I'm eager to enhance its responsiveness further by incorporating the Bootstrap library. This endeavor not only encapsulates my commitment to continual improvement but also underscores my proficiency in crafting engaging and dynamic web experiences."
