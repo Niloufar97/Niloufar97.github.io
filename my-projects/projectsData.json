@@ -11,7 +11,7 @@
       {
         "id": 2,
         "title": "Memory Game" ,
-        "img": "./assets/projectImg/recipe.png",
+        "img": "./assets/projectImg/memory-game1.png",
         "tech" : "HTML, CSS , Javascript",
         "github": "https://thriving-cendol-8adfa8.netlify.app",
         "date": "Jan 2024",
@@ -20,7 +20,7 @@
       {
         "id": 3,
         "title": "Recipe App",
-        "img": "./assets/projectImg/flown3.png",
+        "img": "./assets/projectImg/recipe.png",
         "tech" : "HTML, CSS , Javascript",
         "github": "https://github.com/Niloufar97/Recipe-App",
         "date": "Dec 2023",
@@ -28,7 +28,7 @@
       },
 
       {
-        "id": 3,
+        "id": 4,
         "title": "Kaospilot-toolbox",
         "img": "./assets/projectImg/Kaospilot-toolbox.png",
         "tech" : "HTML, CSS , Javascript",
@@ -37,7 +37,7 @@
         "desc": "For the culmination of the JavaScript course at ReDi-School, I collaborated with a dynamic team of 12 individuals to create the Kaospilot-toolbox. This multifaceted project not only deepened our understanding of JavaScript but also provided invaluable lessons in teamwork and collaborative development. From mastering the intricacies of JavaScript to honing effective communication within a group setting, the project served as a nexus of technical and interpersonal growth. Additionally, the experience of utilizing Git and GitHub for version control added a crucial layer of real-world application to our skill set. The Kaospilot-toolbox is a testament to our collective efforts, showcasing not only our JavaScript proficiency but also our ability to navigate the complexities of collaborative development and version control systems."
       },
       {
-        "id": 4,
+        "id": 5,
         "title": "Portfolio",
         "img": "./assets/projectImg/react-portfolio.png",
         "tech": "HTML, CSS",
@@ -47,7 +47,7 @@
 
       },
       {
-        "id": 5,
+        "id": 6,
         "title": "Todo List",
         "img": "./assets/projectImg/todoList.png",
         "tech" : "HTML, CSS , Javascript",
