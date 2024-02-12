@@ -2,7 +2,7 @@
       {
         "id": 1,
         "title": "Kraftvaerk-project",
-        "img": "./assets/projecImg/flown3.png",
+        "img": "./assets/projectImg/flown3.png",
         "tech" : "HTML, CSS , Javascript ,React",
         "github": "https://github.com/Niloufar97/Kraftvaerk-project",
         "date": "Dec 2023",
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "title": "Memory Game" ,
-        "img": "./assets/projecImg/recipe.png",
+        "img": "./assets/projectImg/recipe.png",
         "tech" : "HTML, CSS , Javascript",
         "github": "https://thriving-cendol-8adfa8.netlify.app",
         "date": "Jan 2024",
@@ -20,7 +20,7 @@
       {
         "id": 3,
         "title": "Recipe App",
-        "img": "./assets/projecImg/flown3.png",
+        "img": "./assets/projectImg/flown3.png",
         "tech" : "HTML, CSS , Javascript",
         "github": "https://github.com/Niloufar97/Recipe-App",
         "date": "Dec 2023",
@@ -30,7 +30,7 @@
       {
         "id": 3,
         "title": "Kaospilot-toolbox",
-        "img": "./assets/projecImg/Kaospilot-toolbox.png",
+        "img": "./assets/projectImg/Kaospilot-toolbox.png",
         "tech" : "HTML, CSS , Javascript",
         "github": "https://github.com/Niloufar97/Kaospilot-toolbox",
         "date": "Jun 2023",
@@ -39,7 +39,7 @@
       {
         "id": 4,
         "title": "Portfolio",
-        "img": "./assets/projecImg/react-portfolio.png",
+        "img": "./assets/projectImg/react-portfolio.png",
         "tech": "HTML, CSS",
         "github": "https://github.com/Niloufar97/Portfolio-HYF",
         "date": "Oct 2023",
@@ -49,7 +49,7 @@
       {
         "id": 5,
         "title": "Todo List",
-        "img": "./assets/projecImg/todoList.png",
+        "img": "./assets/projectImg/todoList.png",
         "tech" : "HTML, CSS , Javascript",
         "github": "https://github.com/Niloufar97/to-do-list",
         "date": "May 2023",
